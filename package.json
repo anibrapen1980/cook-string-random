@@ -1,0 +1,29 @@
+{
+  "name": "cook-string-random",
+  "version": "1.0.0",
+  "description": "A collection of utilities for generating random strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anibrapen1980/cook-string-random"
+  },
+  "dependencies": {
+    "faker": "^7.1.0",
+    "chance": "^1.1.7",
+    "kamidpavil-password-utils": "1.1.4",
+    "put-datafeed": "1.0.0",
+    "stellar-flow-utils": "1.0.0",
+    "random-fail": "1.0.0",
+    "ringcosmic-horizons": "1.0.0",
+    "celestial-rush-utils": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anibrapen1980/cook-string-random/issues"
+  },
+  "homepage": "https://github.com/anibrapen1980/cook-string-random#readme"
+}
